@@ -15,9 +15,10 @@ It is an algorithm question. It is used to convert Roman numerals to Arabic numb
 
 ### 3. Crypto App (Task)
 (URLSession, MVVM, RxSwift)
-| Video  |
-| ----------- |
-| <img width="250px" src="https://github.com/Berkayszk/CryptoApp/assets/77547509/d831220a-94c3-4a37-8e43-205422305546">
+| Video  | Master (GOT App)  | 
+| ----------- | ----------- |
+| (URLSession, MVVM, RxSwift) | (Programmatic UI++)
+| <img width="250px" src="https://github.com/Berkayszk/CryptoApp/assets/77547509/d831220a-94c3-4a37-8e43-205422305546"> | <img width="250px" src="https://github.com/Berkayszk/PazaramaIOSBootcamp/assets/77547509/bbbd4f39-3245-4d9d-a929-5f15c4866b33"> |
 
 ### 4. Crypto App SwiftUI 
 (SwiftUI, Async, Await)
