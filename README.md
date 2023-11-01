@@ -15,13 +15,14 @@ It is an algorithm question. It is used to convert Roman numerals to Arabic numb
 
 ### 3. Crypto App (Task)
 (URLSession, MVVM, RxSwift)
-| Video  | GOT App | 
-| ----------- | ----------- |
-| (URLSession, MVVM, RxSwift) | (Programmatic UI, URLSession, MVVM, RxSwift)
-| <img width="250px" src="https://github.com/Berkayszk/CryptoApp/assets/77547509/d831220a-94c3-4a37-8e43-205422305546"> | <img width="250px" src="https://github.com/Berkayszk/PazaramaIOSBootcamp/assets/77547509/bbbd4f39-3245-4d9d-a929-5f15c4866b33"> |
+| Video  | GOT App | SpaceFlightNews |
+| ----------- | ----------- | ------------ |
+| (URLSession, MVVM, RxSwift) | (Programmatic UI, URLSession, MVVM, RxSwift) |(Programmatic UI, URLSession, MVVM, RxSwift))
+| <img width="250px" src="https://github.com/Berkayszk/CryptoApp/assets/77547509/d831220a-94c3-4a37-8e43-205422305546">    | <img width="250px" src="https://github.com/Berkayszk/PazaramaIOSBootcamp/assets/77547509/bbbd4f39-3245-4d9d-a929-5f15c4866b33"> | <img width="250px" src="https://github.com/Berkayszk/PazaramaIOSBootcamp/assets/77547509/ee604069-f292-43ff-b490-e3e46e381152"> 
 
 ### 4. Crypto App SwiftUI 
 (SwiftUI, Async, Await)
+
 | Video  |
 | ----------- |
 | <img width="250px" src="https://github.com/Berkayszk/PazaramaIOSBootcamp/assets/77547509/0bd9de36-e0e3-4a69-b83d-9acc53cdfb00">
